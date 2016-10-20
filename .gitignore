@@ -1,0 +1,9 @@
+# modified 
+*.bak
+
+# for  vi
+*.swp
+*.swo
+
+#for java 
+*.class
